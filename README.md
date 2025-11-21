@@ -55,7 +55,7 @@ This app was built with **React Native** & **TypeScript**, featuring custom anim
 3.  **Install Required Libraries**
     Ensure these specific packages are installed:
     ```bash
-    npm install @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-reanimated
+    npx expo install @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context react-native-reanimated
     ```
 
 4.  **Run the App**
