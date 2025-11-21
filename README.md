@@ -22,10 +22,12 @@ This app was built with **React Native** & **TypeScript**, featuring custom anim
 * **Total Calculation:** Automatically sums up your total study hours.
 * **Persistent Profile:** Save your Name and Student Number, and the app remembers you!
 
----
 
 ## 📱 Screenshots
-
+![HomeScreen](<screenshots/home screen.png>)
+![ProfileScreen](<screenshots/profile screen.png>)
+![StudyTrackerScreen](<screenshots/study tracker screen.png>)
+![SummaryScreen](<screenshots/summary screen.png>)
 
 ## 🛠️ Tech Stack
 
@@ -35,13 +37,12 @@ This app was built with **React Native** & **TypeScript**, featuring custom anim
 * **Animation:** React Native Reanimated & Animated API
 * **Styling:** StyleSheet
 
----
 
 ## 🚀 How to Run
 
 1.  **Clone the repository**
     ```bash
-    git clone: 
+    git clone https://github.com/Gadaffi-24/Study_Helper.git 
     ```
 
 2.  **Install dependencies**
@@ -65,7 +66,6 @@ This app was built with **React Native** & **TypeScript**, featuring custom anim
     npx react-native run-android
     ```
 
----
 
 ## 📂 Project Structure
 
